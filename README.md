@@ -46,10 +46,10 @@ Get api key -
 [Youtube](https://console.developers.google.com)
 
 ### How to start
-```sh
+``````sh
 $ react-native run-android
 $ react-native run-ios
-```
+``````
 
 
 ### Exponent/ex-navigation version
